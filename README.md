@@ -1,4 +1,4 @@
-##
+#
 Angular Blog Project -
 Guided by professor Felipe Aguiar -
 DIO Course -
